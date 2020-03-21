@@ -1,3 +1,14 @@
-<?php
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container text-center">
+        <h1>Hi Alice</h1>
+        <h2>You have beautiful eyes</h2>
+    </div>
 
-echo "hello Alice!";
+</body>
+
+</html>
