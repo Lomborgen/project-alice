@@ -5,10 +5,10 @@
 </head>
 <body>
     <div class="container">
-        <div class="row text-center mt-4">
+        <div class="row text-center mt-4 d-flex flex-column">
             <h1>Hi Alice</h1>
             <br>
-            <h2><small>aka</small> Puma <small>aka</small> Sunshine</h2>
+            <h4><small>aka</small> Puma <small>aka</small> Sunshine</h4>
             <br>
             <h3>Todays message:</h3>
             <p>You have beautiful eyes and you must invent a cooked meal for your lord Dennis</p>
