@@ -24,6 +24,8 @@
             <br>
             <h3>Todays message:</h3>
             <p>You have beautiful eyes and you must invent a cooked meal for your lord Dennis</p>
+            <h3>Extra info (brought by Yoda):</h3>
+            <p>Your favorite color, this background is. Romantic Dennis can be, yes.</p>
         </div>
     </div>
 
