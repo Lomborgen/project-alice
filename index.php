@@ -18,7 +18,7 @@
 <body>
     <div class="container">
         <div class="row text-center mt-4 d-flex flex-column">
-            <h1><i class="fas fa-heart"></i> Hi Alice <i class="fas fa-heart"></i></h1>
+            <h1><i class="fa fa-heart"></i> Hi Alice <i class="fa fa-heart"></i></h1>
             <br>
             <h4><small>aka</small> Puma <small>aka</small> Sunshine</h4>
             <br>
