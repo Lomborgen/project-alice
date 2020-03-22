@@ -20,12 +20,12 @@
         <div class="row text-center mt-4 d-flex flex-column">
             <h1><i class="fa fa-heart"></i> Hi Alice <i class="fa fa-heart"></i></h1>
             <br>
-            <h4><small>aka</small> Puma <small>aka</small> Sunshine</h4>
+            <h4><small>aka</small> Puma <small>aka</small> Sunshine <small>aka</small> Monkey</h4>
             <br>
-            <h3>Todays message:</h3>
-            <p>You have beautiful eyes and you must invent a cooked meal for your lord Dennis</p>
-            <h3>Extra info (brought by Yoda):</h3>
-            <p>Your favorite color, this background is. Romantic Dennis can be, yes.</p>
+            <h3>Todays message to Alice:</h3>
+            <p>You are good at board games. Not as good as Lord, but good.</p>
+            <h4>Extra info (brought by Yoda):</h4>
+            <p>Love Alice's food, Dennis does. Greek stuffed tomatoes, she must cook</p>
         </div>
     </div>
 
