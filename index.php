@@ -23,9 +23,16 @@
             <h4><small>aka</small> Puma <small>aka</small> Sunshine <small>aka</small> Monkey</h4>
             <br>
             <h3>Todays message to Alice:</h3>
+            <p>Roses are red, <br>
+                Violets are blue. <br>
+                You’re a pyscho, <br>
+                But I still like you..</p>
+            <h4>Extra info (brought by Yoda):</h4>
+            <p>Icecream Dennis will bring, happy Alice will become</p>
+            <!--<h3>Todays message to Alice:</h3>
             <p>You are good at board games. Not as good as Lord, but good.</p>
             <h4>Extra info (brought by Yoda):</h4>
-            <p>Love Alice's food, Dennis does. Greek stuffed tomatoes, she must cook</p>
+            <p>Love Alice's food, Dennis does. Greek stuffed tomatoes, she must cook</p>-->
         </div>
     </div>
 
