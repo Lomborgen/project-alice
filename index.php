@@ -20,15 +20,26 @@
         <div class="row text-center mt-4 d-flex flex-column">
             <h1><i class="fa fa-heart"></i> Hi Alice <i class="fa fa-heart"></i></h1>
             <br>
-            <h4><small>aka</small> Puma <small>aka</small> Sunshine <small>aka</small> Monkey</h4>
+            <h4><small>aka</small> Puma <small>aka</small> Sunshine <small>aka</small> Monkey <small>aka</small> Alice the poo</h4>
             <br>
             <h3>Todays message to Alice:</h3>
-            <p>Roses are red, <br>
-                Violets are blue. <br>
-                You’re a pyscho, <br>
-                But I still like you..</p>
+            <p><br>
+                She enjoys a thing, that is a bit like goo<br>
+                Her skin is softer, than the softest wool<br>
+                Hot she feels, on the bed sheet of bamboo <br>
+                Not enough hugs, icecold she will become too<br>
+                Don't touch her booty, dont be no fool <br>
+                Moody she now is, that's too bad for you<br>
+                Alice her name is... Alice the poo</p>
             <h4>Extra info (brought by Yoda):</h4>
-            <p>Icecream Dennis will bring, happy Alice will become</p>
+            <p>Honey Dennis will bring, happy Alice will become</p>
+<!--            <h3>Todays message to Alice:</h3>-->
+<!--            <p>Roses are red, <br>-->
+<!--                Violets are blue. <br>-->
+<!--                You’re a pyscho, <br>-->
+<!--                But I still like you..</p>-->
+<!--            <h4>Extra info (brought by Yoda):</h4>-->
+<!--            <p>Icecream Dennis will bring, happy Alice will become</p>-->
             <!--<h3>Todays message to Alice:</h3>
             <p>You are good at board games. Not as good as Lord, but good.</p>
             <h4>Extra info (brought by Yoda):</h4>
